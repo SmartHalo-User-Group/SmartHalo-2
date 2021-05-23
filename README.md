@@ -1,4 +1,4 @@
 # SmartHalo-User-Group
-The Independent SmartHalo User Group (SHUG): https://www.facebook.com/groups/smarthalousergroup
-#
-To add/modify issues, please send message via the User Group page on Facebook or a post on Reddit on https://www.reddit.com/r/SmartHalo/
+This page repository is maintained by the SmartHalo User Group (SHUG): https://www.facebook.com/groups/smarthalousergroup
+
+To add/modify issues, please send message via the User Group page on Facebook (https://www.facebook.com/groups/smarthalousergroup) or a post on Reddit on https://www.reddit.com/r/SmartHalo/
