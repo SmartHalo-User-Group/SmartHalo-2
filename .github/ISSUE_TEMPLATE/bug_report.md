@@ -20,7 +20,7 @@ Good: App lacks two-factor authentication
 A clear and concise description of the problem.
 
 ## Steps To Reproduce
-Steps to reproduce the behavior. Describe what you typed, tapped, saw and heard.
+<!-- Steps to reproduce the behavior. Describe what you typed, tapped, saw and heard. -->
 1. Launch SmartHalo app
 2. Tap on '....'
 3. Scroll down to '....'
