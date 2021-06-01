@@ -1,4 +1,4 @@
-# SmartHalo-User-Group
+# SmartHalo User Group
 First and foremost, we are a group of users that use the SmartHalo products to enhance our biking pleasure. We do that by sharing experiences / knowledge, tips & tricks, and taking any member issues and concerns directly to SmartHalo. The SmartHalo User Group provides an independent voice for SmartHalo owners across the globe, enables members to help drive the future development of SmartHalo products and services, and supports a channel for SmartHalo to communicate to users.
 The SmartHalo User Group is independent. Everyone is welcome. 
 
